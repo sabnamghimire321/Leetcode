@@ -4,7 +4,7 @@ Some LeetCode solutions all in python
 
 Repo: https://github.com/sabnamghimire321/Leetcode.git
 
-194 problems, 17 pattern folders.
+194 problems, 17 pattern folders
 
 ## Folders
 
